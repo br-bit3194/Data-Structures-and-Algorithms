@@ -1,0 +1,27 @@
+1. codeforces
+2. hackathons
+3. open source contribution
+
+
+Junior Backend: https://www.youtube.com/watch?v=tzGGRXjFT-M
+Senior Backend: https://www.youtube.com/watch?v=kdPqhCHsSxE&t=0s
+Junior Frontend/Fullstack: https://www.youtube.com/watch?v=94FvopjdMO0&t=0s
+Fresher/Non-Tech: https://www.youtube.com/watch?v=AnzqvN638ig&t=0s
+QA / SDET / Devops / Network engineer / Salesforce eng: https://www.youtube.com/watch?v=yfV1J6PWZIE&t=0s
+Data Engineers: https://www.youtube.com/watch?v=FkZhVZGsH6U&t=0s
+Engineering Management (EM, Senior EM, Director): https://www.youtube.com/watch?v=pL0IhLYGgMA&t=0s
+
+interview exp: https://www.scaler.com/academy/mentee-dashboard/discussion-forum/t/interview-experiences/7/
+
+dsa notes: https://docs.google.com/spreadsheets/d/1hGbRbMnkmmwbslMD89b6O4yoCW7LRpuEzVKXuzL9wKQ/edit#gid=0
+
+--Open src contribution:
+https://www.youtube.com/watch?v=hj3oQU1z4P0&ab_channel=HarkiratSingh
+https://www.youtube.com/watch?v=Bp1g3guEO0I&ab_channel=HarkiratSingh
+https://www.youtube.com/watch?v=CML6vfKjQss&ab_channel=LearnFastMakeThings
+
+--hackathon
+https://www.hackerearth.com/challenges/
+https://devpost.com/hackathons
+
+-- Resume anime hint: https://aarnavjindal.com/
