@@ -1,0 +1,1 @@
+https://github.com/KingsGambitLab/Lecture_Notes/tree/master/Non-DSA%20Notes/SQL%20Notes
